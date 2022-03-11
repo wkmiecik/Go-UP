@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="loadingBar.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="42.160031"
+     inkscape:cy="50.693873"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.50196081;stroke:#b00000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 56.693359 1009.1348 A 56.692913 56.692913 0 0 0 0 1065.8262 A 56.692913 56.692913 0 0 0 56.693359 1122.5195 A 56.692913 56.692913 0 0 0 113.38672 1065.8262 A 56.692913 56.692913 0 0 0 56.693359 1009.1348 z M 56.693359 1016.6934 A 49.133858 49.133858 0 0 1 105.82617 1065.8262 A 49.133858 49.133858 0 0 1 56.693359 1114.9609 A 49.133858 49.133858 0 0 1 7.5585938 1065.8262 A 49.133858 49.133858 0 0 1 56.693359 1016.6934 z "
+       transform="scale(0.26458333)"
+       id="path817" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.7860465;stroke:#b00000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 11.820099,294.60536 -0.561166,1.92001 c 1.234874,0.32121 2.507801,0.47962 3.784095,0.48163 1.24817,-0.009 2.491385,-0.16875 3.699005,-0.48318 l -0.514958,-1.92503 c -0.82839,0.16777 -2.337688,0.40701 -3.183013,0.41246 -0.888376,-7.5e-4 -2.354163,-0.2259 -3.223963,-0.40589 z"
+       id="path828"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+</svg>

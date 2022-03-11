@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -107981364, guid: 741884b37a0234d86bb740e55081cd5f, type: 3}
+  m_Name: UDP Settings
+  m_EditorClassIdentifier: 
+  UnityProjectID: 8745963a-9ac1-40f6-b98b-1b07c032932c
+  UnityClientID: MpjcRCcW1eIWY29yov6jpQ
+  UnityClientKey: GiRZ1YN4u-uHnn1TDJJLDsfWpXNYDwnMUPpsQ2dQxmQ
+  UnityClientRSAPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2dcJ0ilOeUnp4gLn0aM5xasLr1tWF3EKPbJwbEA2xVPT9DEnvmylQquOChjsNiVMIO29tuoSjpWXB/0JqulwdT9ZLx+zADKIOuqI9U43Q72EgDeXEAUtmwooy6ojLJ6+8rJ9f9xy4LKMYTBkZuLBmkXQ3tmM0BDw/HnePyps2UXGqSvsXR21sMu2Fq1+cTtC8UDWd0epqFv4KXVVzUZk7zyK1uq1veOQQnIk1DycS45nWIskUHb/GyrXsw8erXUyMaEq9t36JbLYiLwG9v8i15QP4EoHWY3LsHUX/Zr4/BtBx7/sCQnWJTToOK5GEtgvZTKjodErNaVbjg0xHMjFwwIDAQAB
+  AppName: 8745963a-9ac1-40f6-b98b-1b07c032932c
+  AppSlug: 41d4ec23-6938-411f-997d-151d6576eeef
+  AppItemId: 5df9e3f290a93018d840c733
+  Permission: 

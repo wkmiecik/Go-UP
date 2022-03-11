@@ -1,0 +1,8 @@
+<dependencies>
+  <packages>
+    <package>com.google.games:gpgs-plugin-support:0.9.64</package>
+  </packages>
+  <files>
+    <file>Assets/GooglePlayGames/Editor/m2repository/com/google/games/gpgs-plugin-support/0.9.64/gpgs-plugin-support-0.9.64.aar</file>
+  </files>
+</dependencies>

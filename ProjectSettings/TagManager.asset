@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - DebugText
+  - StartPanel
+  - EndPanel
+  - PointsPanel
+  - Main
+  - RestartB
+  - LeaderB
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Player
+  - Points
+  - UItop
+  - PP
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: UItop
+    uniqueID: 503750733
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PP
+    uniqueID: 2142973401
+    locked: 0
