@@ -7,4 +7,4 @@ This is a very simple android game made in unity. You are a bat, and your goal i
 
 It's using google play services to create leaderboard and save player highscore.
 
-Google play link: play.google.com/store/apps/details?id=com.Chasam33.GoUP
+[Google play link](https://play.google.com/store/apps/details?id=com.Chasam33.GoUP)
